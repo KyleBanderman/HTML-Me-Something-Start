@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+
+#title {
+    color: #A9A9A9; /*color is very dark grey*/
+    text-align: center;
+}
+main {
+    background-color: #005f6a; /*color is petrol*/
+}
+body {
+    background-color: #005f6a; /*color is petrol*/
+}
+#paragraph {
+    color: #A9A9A9
+}
+#leftSideOfPage {
+    background-color: #005f6A;/*petrol*/ width: 50%; height: 550px; float:left;
+}
+#rightSideOfPage {
+    background-color: pink; width:50%; height: 550px; float:left;
+}
+#thirdSection {
+    background-color: pink; width: 100%; height: 550px;
+}
+#link {
+    color: yellow
+}
