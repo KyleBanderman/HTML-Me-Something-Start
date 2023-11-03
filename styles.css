@@ -1,26 +1,37 @@
 
 #title {
-    color: #A9A9A9; /*color is very dark grey*/
+    color: black; /*color is very dark grey*/
     text-align: center;
 }
 main {
-    background-color: #005f6a; /*color is petrol*/
+    background-color: lightblue; /*color is petrol*/
 }
 body {
-    background-color: #005f6a; /*color is petrol*/
+    background-color: lightblue; /*color is petrol*/
 }
 #paragraph {
-    color: #A9A9A9
+    color: black
 }
 #leftSideOfPage {
-    background-color: #005f6A;/*petrol*/ width: 50%; height: 550px; float:left;
+    background-color: lightblue; width: 50%; height: 550px; float:left;
 }
 #rightSideOfPage {
-    background-color: pink; width:50%; height: 550px; float:left;
+    background-color: lightblue; width:50%; height: 550px; float:left;
 }
 #thirdSection {
     background-color: pink; width: 100%; height: 550px;
 }
 #link {
-    color: yellow
+    color: red
+}
+#mainHeading {
+    color: red;
+    text-align: right;
+    margin-right: 7%;
+}
+.funParagraph{
+    color: green;
+}
+#notation {
+    margin-top: 30px;
 }
