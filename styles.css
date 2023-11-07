@@ -35,3 +35,8 @@ body {
 #notation {
     margin-top: 30px;
 }
+#footer {
+    margin-top: 2950px;
+    text-align: right;
+    margin-right: 10%;
+}
